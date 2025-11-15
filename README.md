@@ -56,7 +56,7 @@ I'm **Sreeram Reddy Velagala** (**DracFiendMG**), a passionate **Full-Stack Deve
 
 ![DracFiendMG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DracFiendMG&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DracFiendMG&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DracFiendMG&layout=compact&theme=radical&exclude_repo=DemoPlotting)
 
 </div>
 
