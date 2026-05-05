@@ -59,7 +59,7 @@ I'm **Sreeram Reddy Velagala** (**DracFiendMG**), a **Senior Software Engineer**
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DracFiendMG&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DracFiendMG&theme=radical&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DracFiendMG&theme=react-dark&hide_border=true)
 
