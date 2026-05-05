@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-I'm **Sreeram Reddy Velagala** (**DracFiendMG**), a passionate **Full-Stack Developer** with **2+ years of experience** crafting digital solutions. I thrive on building robust applications from database to deployment, with a keen eye for both backend architecture and frontend user experience! 🚀
+I'm **Sreeram Reddy Velagala** (**DracFiendMG**), a **Senior Software Engineer** with **full-stack capabilities** and **3+ years of experience** crafting digital solutions. I thrive on building robust applications from database to deployment, with a keen eye for both backend architecture and frontend user experience! 🚀
 
 ---
 
@@ -31,6 +31,11 @@ I'm **Sreeram Reddy Velagala** (**DracFiendMG**), a passionate **Full-Stack Deve
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,9 +59,11 @@ I'm **Sreeram Reddy Velagala** (**DracFiendMG**), a passionate **Full-Stack Deve
 
 <div align="center">
 
-![DracFiendMG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DracFiendMG&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DracFiendMG&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DracFiendMG&layout=compact&theme=radical&exclude_repo=DemoPlotting)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DracFiendMG&theme=react-dark&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DracFiendMG&theme=radical&no-frame=true&column=7)
 
 </div>
 
