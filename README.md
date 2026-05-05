@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-I'm **Sreeram Reddy Velagala** (**DracFiendMG**), a passionate **Full-Stack Developer** with **2+ years of experience** crafting digital solutions. I thrive on building robust applications from database to deployment, with a keen eye for both backend architecture and frontend user experience! 🚀
+I'm **Sreeram Reddy Velagala** (**DracFiendMG**), a passionate **Full-Stack Developer** with **3+ years of experience** crafting digital solutions. I thrive on building robust applications from database to deployment, with a keen eye for both backend architecture and frontend user experience! 🚀
 
 ---
 
@@ -59,9 +59,9 @@ I'm **Sreeram Reddy Velagala** (**DracFiendMG**), a passionate **Full-Stack Deve
 
 <div align="center">
 
-![DracFiendMG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DracFiendMG&show_icons=true&theme=radical)
+![DracFiendMG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DracFiendMG&show_icons=true&theme=radical&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DracFiendMG&layout=compact&theme=radical&exclude_repo=DemoPlotting)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DracFiendMG&layout=compact&theme=radical&exclude_repo=DemoPlotting&cache_seconds=1800&hide_border=true)
 
 </div>
 
